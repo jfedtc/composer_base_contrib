@@ -1,5 +1,5 @@
 {
-    "name": "jfe/jfe_base_contrib",
+    "name": "jfe/composer_base_contrib",
     "description": "Base Drupal contrib modules",
     "type": "metapackage",
     "require": {
