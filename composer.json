@@ -1,0 +1,9 @@
+{
+    "name": "jfe/jfe_base_contrib",
+    "description": "Base Drupal contrib modules",
+    "type": "metapackage",
+    "require": {
+      "drupal/addtoany": "^1.15"
+    },
+    "version": "1.0.0"
+}
