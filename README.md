@@ -3,6 +3,8 @@ Composer meta-package for base contrib modules to use for JFE Drupal sites
 
 ## Version History
 
+1.0.8 - Add Permissions by Term
+
 1.0.7 - Add Rabbit hole
 
 1.0.6 - Add decoupled kit
