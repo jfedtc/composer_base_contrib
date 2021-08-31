@@ -50,6 +50,7 @@
       "drupal/smtp": "^1.0",
       "drupal/status_messages": "^4.2",
       "drupal/svg_image": "^1.14",
+      "drupal/toastr": "^1.0",
       "drupal/token_filter": "^1.2",
       "drupal/twig_field_value": "^2.0",
       "drupal/twig_tweak": "^3.1",
