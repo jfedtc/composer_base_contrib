@@ -3,6 +3,8 @@ Composer meta-package for base contrib modules to use for JFE Drupal sites
 
 ## Version History
 
+1.0.10 - Add Taxonomy Views Integrator
+
 1.0.9 - Add Paragraphs Editor Enhancements and Toastr
 
 1.0.8 - Add Permissions by Term
