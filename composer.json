@@ -2,6 +2,7 @@
     "name": "jfe/composer_base_contrib",
     "description": "Base Drupal contrib modules",
     "type": "metapackage",
+    "prefer-stable": true,
     "require": {
       "drupal/addtoany": "^1.15",
       "drupal/admin_toolbar": "^3.0",
@@ -66,5 +67,5 @@
       "drupal/weight": "^3.3",
       "kint-php/kint": "^3.3"
     },
-    "version": "1.0.11"
+    "version": "1.0.12"
 }
