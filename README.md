@@ -3,6 +3,8 @@ Composer meta-package for base contrib modules to use for JFE Drupal sites
 
 ## Version History
 
+1.0.13 - Migrate tools dev version works with drush 10.6.1, stable version does not currently (https://www.drupal.org/project/migrate_tools/issues/3212876)
+
 1.0.12 - Prefer stable true
 
 1.0.11 - Add Menu Admin per Role
