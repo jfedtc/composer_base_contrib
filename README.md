@@ -3,6 +3,8 @@ Composer meta-package for base contrib modules to use for JFE Drupal sites
 
 ## Version History
 
+1.0.13 - Add Pantheon Advanced Page Cache
+
 1.0.12 - Prefer stable true
 
 1.0.11 - Add Menu Admin per Role
