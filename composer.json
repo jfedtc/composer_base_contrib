@@ -2,6 +2,7 @@
     "name": "jfe/composer_base_contrib",
     "description": "Base Drupal contrib modules",
     "type": "metapackage",
+    "minimum-stability": "beta",
     "prefer-stable": true,
     "require": {
       "drupal/addtoany": "^1.15",
