@@ -5,29 +5,29 @@ Composer meta-package for base contrib modules to use for JFE Drupal sites
 
 1.1.0 - Updates a ton of modules:
 
-* Addtoany
-* Admin Toolbar
-* Allowed Formats
-* Better Exposed Filters
-* Ctools
-* Field Group
-* File MDM
-* Fontawesome
-* Image Effects
-* Imagemagick
-* Metatag
-* Node View Permissions
-* Open ID Connect
-* Publish Content
-* Quicklink
-* Redirect
-* Scheduled Transitions
-* Simple Sitemap
-* SVG Image
-* Token Filter
-* Views Data Export
-* Webform
-* Kint
+* Addtoany 1.16
+* Admin Toolbar 3.1
+* Allowed Formats 1.4
+* Better Exposed Filters 5.0
+* Ctools 3.7
+* Field Group 3.2
+* File MDM 2.2
+* Fontawesome 2.19
+* Image Effects 3.2
+* Imagemagick 3.3
+* Metatag 1.19
+* Node View Permissions 1.5
+* Open ID Connect 1.2
+* Publish Content 1.4
+* Quicklink 2.0
+* Redirect 1.7
+* Scheduled Transitions 2.2
+* Simple Sitemap 4.0
+* SVG Image 1.15
+* Token Filter 1.3
+* Views Data Export 1.1
+* Webform 6.1
+* Kint 4.1
 
 1.0.14 - Fix auto entity label beta version
 
