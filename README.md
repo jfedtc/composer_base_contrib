@@ -3,6 +3,32 @@ Composer meta-package for base contrib modules to use for JFE Drupal sites
 
 ## Version History
 
+1.1.0 - Updates a ton of modules:
+
+* Addtoany
+* Admin Toolbar
+* Allowed Formats
+* Better Exposed Filters
+* Ctools
+* Field Group
+* File MDM
+* Fontawesome
+* Image Effects
+* Imagemagick
+* Metatag
+* Node View Permissions
+* Open ID Connect
+* Publish Content
+* Quicklink
+* Redirect
+* Scheduled Transitions
+* Simple Sitemap
+* SVG Image
+* Token Filter
+* Views Data Export
+* Webform
+* Kint
+
 1.0.14 - Fix auto entity label beta version
 
 1.0.13 - Add Pantheon Advanced Page Cache
